@@ -1,0 +1,13 @@
+D:\C#\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+D:\C#\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+D:\C#\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+D:\C#\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+D:\C#\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+D:\C#\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+D:\C#\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+D:\C#\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+D:\C#\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+D:\C#\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+D:\C#\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+D:\C#\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+D:\C#\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
