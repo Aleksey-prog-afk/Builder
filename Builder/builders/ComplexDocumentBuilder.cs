@@ -21,20 +21,26 @@ namespace Builder.builders
         {
             return this;
         }
-        public ComplexDocumentBuilder SetNumber(int number)
+        public  IDocumentBuilder SetNumber(int number)
         {
             document.number = number;
             return this;
         }
-        public ComplexDocumentBuilder SetDecimal (double number)
+        public IDocumentBuilder SetDecimal (double number)
         {
             document.decima = number;
             return this;
         }
-        public ComplexDocumentBuilder SetText(string text)
+        public IDocumentBuilder SetText(string text)
         {
             document.text = text;
             return this;
         }
+
+        public IDocumentBuilder SetList()
+        {
+            throw new NotImplementedException();
+        }
+       
     }
 }

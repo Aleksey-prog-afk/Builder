@@ -12,10 +12,36 @@ namespace Builder.builders
             return document;
         }
 
+       
+
+        public IDocumentBuilder SetDecimal(double number)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IDocumentBuilder SetList()
+        {
+            throw new NotImplementedException();
+        }
+
+        
+
+        public IDocumentBuilder SetNumber(int number)
+        {
+            throw new NotImplementedException();
+        }
+
         public IDocumentBuilder SetSignature()
         {
             document.Signature = "Signatured";
             return this;
+        }
+
+        
+
+        public IDocumentBuilder SetText(string text)
+        {
+            throw new NotImplementedException();
         }
 
         public IDocumentBuilder SetTitle()

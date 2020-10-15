@@ -24,8 +24,7 @@ namespace Builder
 
             listBuilder.SetList(list).SetTitle().SetSignature();
 
-            complexBuilder.SetTitle().SetSignature();
-            complexBuilder.SetText("Very hard text").SetNumber(15).SetDecimal(1.34);
+            complexBuilder.SetTitle().SetSignature().SetText("Very hard text").SetNumber(15).SetDecimal(1.34);           
 
             simpleDocument = simpleBuilder.build();
             listDocument = listBuilder.build();

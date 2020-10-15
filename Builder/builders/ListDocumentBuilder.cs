@@ -31,5 +31,25 @@ namespace Builder.builders
         {
             return this.document;
         }
+
+        public IDocumentBuilder SetList()
+        {
+            throw new NotImplementedException();
+        }
+
+        public IDocumentBuilder SetNumber(int number)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IDocumentBuilder SetDecimal(double number)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IDocumentBuilder SetText(string text)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
